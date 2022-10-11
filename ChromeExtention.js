@@ -65,7 +65,7 @@ inputBtn.addEventListener("click",function() {
     rendu(mesLiens)
 })
 
-supBtn.addEventListener("dblclick",function() {
+supBtn.addEventListener("click",function() {
     
     localStorage.clear()
     mesLiens = []
