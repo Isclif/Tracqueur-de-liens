@@ -42,3 +42,24 @@ li a {
     background-color: rgb(179, 3, 3);
     border-color: rgb(255, 55, 0);
 }
+
+@media screen and (max-width:500px){
+
+    li a {
+        color: rgb(238, 255, 2);
+        font-size: 15px;
+    }
+
+    input{
+        width: 70%;
+        padding: 10px;
+        box-sizing: border-box;
+        outline: none;
+        border: 2px solid rgb(3, 100, 23);
+    }
+    #sup-btn{
+        display: flex;
+    }
+
+
+}
