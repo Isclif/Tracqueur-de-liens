@@ -1,0 +1,44 @@
+body{
+    font-size: 30px;
+    min-width: 400px;
+    background-color: rgb(32, 28, 28);
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    outline: none;
+    border: 2px solid rgb(3, 100, 23);
+}
+
+button{
+    background-color: rgb(3, 100, 23);
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+    border-color: rgb(6, 181, 38);
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+ul{
+    padding-left: 0px;
+    list-style: none;
+    margin-top: 20px;
+}
+
+li {
+    padding: 2px;
+}
+
+li a {
+    color: rgb(238, 255, 2);
+    font-size: 20px;
+}
+
+#sup-btn{
+    background-color: rgb(179, 3, 3);
+    border-color: rgb(255, 55, 0);
+}

@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.3",
+    "name": "tracqueur de liens",
+    "action": {
+        "default_popup": "ChromeExtention.html",
+        "default_icon": "logo3.png"
+    },
+
+    "permissions": [
+        "tabs"
+    ]
+}
