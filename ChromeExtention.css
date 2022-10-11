@@ -50,16 +50,6 @@ li a {
         font-size: 15px;
     }
 
-    input{
-        width: 70%;
-        padding: 10px;
-        box-sizing: border-box;
-        outline: none;
-        border: 2px solid rgb(3, 100, 23);
-    }
-    #sup-btn{
-        display: flex;
-    }
 
 
 }
